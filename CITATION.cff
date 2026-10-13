@@ -15,7 +15,7 @@ authors:
   - family-names: Tuccillo
     given-names: Máximo
     affiliation: "Laboratory of Biosensors and Bioanalysis, IQUIBICEN-CONICET, FCEN-UBA"
-repository-code: "https://github.com/yhat-investigathon-Bioinformatics/yhat"
+repository-code: "https://github.com/yhat-investigathon-Bioinformatics/Hackathon-Alignment-free-phylum-identification-of-COI-sequences"
 keywords:
   - bioinformatics
   - DNA barcoding
