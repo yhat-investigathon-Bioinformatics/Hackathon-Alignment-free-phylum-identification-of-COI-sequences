@@ -4,7 +4,7 @@
 
 Nicolás Nakasone, Joaquín Katz, Facundo Dallo, Máximo Tuccillo — IQUIBICEN / IBYME-CONICET, FCEN-UBA
 
-🥈 **Second place — Bioinformatics track, Investigathon 2025** (organized by Y-hat)
+**Second place — Bioinformatics track, Investigathon 2025** (organized by Y-hat)
 
 Given a fragment of the mitochondrial **COI (cytochrome c oxidase subunit I)** gene, predict its
 **phylum** without aligning it against a reference database.
