@@ -2,7 +2,7 @@
 
 **An approach based on k-mers, entropy profiling and deep learning**
 
-Nicolás Nakasone, Joaquín Katz, Facundo Dallo, Máximo Tuccillo — IQUIBICEN / IBYME-CONICET, FCEN-UBA
+[Nicolás Nakasone](https://github.com/niconaka23), [Joaquín Katz](https://github.com/JHK212), [Facundo Dallo](https://github.com/FacundoDallo), [Máximo Tuccillo](https://github.com/maxituccillo) — IQUIBICEN / IBYME-CONICET, FCEN-UBA
 
 **Second place — Bioinformatics track, Investigathon 2025** (organized by Y-hat)
 
