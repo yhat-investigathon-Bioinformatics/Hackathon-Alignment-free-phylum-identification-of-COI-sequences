@@ -1,0 +1,20 @@
+# Datos (pesados, ver data/README.md)
+*.fasta
+*.fasta.gz
+*.fa
+*.aln
+*.taxon
+*.npy
+*.keras
+*.h5
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Local
+.claude/

@@ -1,0 +1,182 @@
+{
+  "phyla": [
+    "Annelida",
+    "Arthropoda",
+    "Chordata",
+    "Echinodermata",
+    "Mollusca",
+    "Nematoda",
+    "Platyhelminthes",
+    "Rhodophyta"
+  ],
+  "confusion_matrix": [
+    [
+      1454,
+      337,
+      18,
+      17,
+      128,
+      18,
+      19,
+      0
+    ],
+    [
+      20,
+      1814,
+      14,
+      2,
+      87,
+      48,
+      4,
+      1
+    ],
+    [
+      0,
+      70,
+      1869,
+      14,
+      22,
+      14,
+      2,
+      0
+    ],
+    [
+      1,
+      26,
+      0,
+      1745,
+      130,
+      65,
+      24,
+      1
+    ],
+    [
+      50,
+      275,
+      4,
+      4,
+      1495,
+      115,
+      49,
+      2
+    ],
+    [
+      6,
+      34,
+      3,
+      4,
+      3,
+      1885,
+      29,
+      0
+    ],
+    [
+      0,
+      19,
+      0,
+      0,
+      3,
+      187,
+      1754,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      3,
+      5,
+      1983
+    ]
+  ],
+  "confusion_dict": {
+    "Annelida": {
+      "Annelida": 1454,
+      "Arthropoda": 337,
+      "Chordata": 18,
+      "Echinodermata": 17,
+      "Mollusca": 128,
+      "Nematoda": 18,
+      "Platyhelminthes": 19,
+      "Rhodophyta": 0
+    },
+    "Arthropoda": {
+      "Annelida": 20,
+      "Arthropoda": 1814,
+      "Chordata": 14,
+      "Echinodermata": 2,
+      "Mollusca": 87,
+      "Nematoda": 48,
+      "Platyhelminthes": 4,
+      "Rhodophyta": 1
+    },
+    "Chordata": {
+      "Annelida": 0,
+      "Arthropoda": 70,
+      "Chordata": 1869,
+      "Echinodermata": 14,
+      "Mollusca": 22,
+      "Nematoda": 14,
+      "Platyhelminthes": 2,
+      "Rhodophyta": 0
+    },
+    "Echinodermata": {
+      "Annelida": 1,
+      "Arthropoda": 26,
+      "Chordata": 0,
+      "Echinodermata": 1745,
+      "Mollusca": 130,
+      "Nematoda": 65,
+      "Platyhelminthes": 24,
+      "Rhodophyta": 1
+    },
+    "Mollusca": {
+      "Annelida": 50,
+      "Arthropoda": 275,
+      "Chordata": 4,
+      "Echinodermata": 4,
+      "Mollusca": 1495,
+      "Nematoda": 115,
+      "Platyhelminthes": 49,
+      "Rhodophyta": 2
+    },
+    "Nematoda": {
+      "Annelida": 6,
+      "Arthropoda": 34,
+      "Chordata": 3,
+      "Echinodermata": 4,
+      "Mollusca": 3,
+      "Nematoda": 1885,
+      "Platyhelminthes": 29,
+      "Rhodophyta": 0
+    },
+    "Platyhelminthes": {
+      "Annelida": 0,
+      "Arthropoda": 19,
+      "Chordata": 0,
+      "Echinodermata": 0,
+      "Mollusca": 3,
+      "Nematoda": 187,
+      "Platyhelminthes": 1754,
+      "Rhodophyta": 4
+    },
+    "Rhodophyta": {
+      "Annelida": 0,
+      "Arthropoda": 0,
+      "Chordata": 0,
+      "Echinodermata": 0,
+      "Mollusca": 2,
+      "Nematoda": 3,
+      "Platyhelminthes": 5,
+      "Rhodophyta": 1983
+    }
+  },
+  "k": 6,
+  "w": 250,
+  "s": 20,
+  "profiles_dir": "/home/joaco/yhat/profiles_dl_ml",
+  "accuracy": 0.8814381060319859,
+  "normalized_by": 2000
+}
