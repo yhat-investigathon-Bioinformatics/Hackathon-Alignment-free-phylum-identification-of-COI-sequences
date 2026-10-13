@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Alignment-free phylum identification of COI sequences: an approach based on k-mers, entropy profiling and deep learning"
+type: software
+authors:
+  - family-names: Nakasone
+    given-names: Nicolás
+    affiliation: "Laboratory of Enzymatic Engineering and Nanobiotechnology, IQUIBICEN-CONICET, FCEN-UBA"
+  - family-names: Katz
+    given-names: Joaquín
+    affiliation: "Laboratory of Bioinformatics & Genomics, IQUIBICEN-CONICET, FCEN-UBA"
+  - family-names: Dallo
+    given-names: Facundo
+    affiliation: "Laboratory of Neurobiology of Aging, IBYME-CONICET & Department of Biological Chemistry, FCEN-UBA"
+  - family-names: Tuccillo
+    given-names: Máximo
+    affiliation: "Laboratory of Biosensors and Bioanalysis, IQUIBICEN-CONICET, FCEN-UBA"
+repository-code: "https://github.com/yhat-investigathon-Bioinformatics/yhat"
+keywords:
+  - bioinformatics
+  - DNA barcoding
+  - COI
+  - alignment-free
+  - k-mers
+  - FCGR
+  - deep learning
