@@ -4,13 +4,20 @@
 
 Nicolás Nakasone, Joaquín Katz, Facundo Dallo, Máximo Tuccillo — IQUIBICEN / IBYME-CONICET, FCEN-UBA
 
-Project developed for the **Investigathon (Bioinformatics track)**. Given a fragment of the
-mitochondrial **COI (cytochrome c oxidase subunit I)** gene, predict its **phylum** without aligning
-it against a reference database.
+🥈 **Second place — Bioinformatics track, Investigathon 2025** (organized by Y-hat)
+
+Given a fragment of the mitochondrial **COI (cytochrome c oxidase subunit I)** gene, predict its
+**phylum** without aligning it against a reference database.
 
 📄 **[Poster (PDF)](poster/poster.pdf)**
 
 [![Poster](poster/poster_preview.png)](poster/poster.pdf)
+
+<p>
+  <img src="figures/event/team.jpg" height="320">
+  <img src="figures/event/poster_printed.jpg" height="320">
+  <img src="figures/event/certificate_2nd_place.jpg" height="320">
+</p>
 
 Two approaches were evaluated on the same dataset (8 phyla, 10,000 sequences per phylum, 80/20 split):
 
@@ -48,7 +55,7 @@ yhat/
 │   ├── profiles/      #   trained profiles (k=6, w=250, s=20) as JSON
 │   └── results/       #   grid search (k, w, s) and confusion matrix
 ├── subsequence/       # Search for the variable region of COI (MAFFT + Shannon entropy)
-├── figures/           # Result figures
+├── figures/           # Result figures (event/: photos from the Investigathon)
 ├── poster/            # Presented poster (PDF + preview)
 ├── data/              # (empty) instructions to download the data
 └── requirements.txt
